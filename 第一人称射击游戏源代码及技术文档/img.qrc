@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>pic/appear.png</file>
+        <file>pic/tree.png</file>
+    </qresource>
+    <qresource prefix="/woof">
+        <file>pic/disappear.png</file>
+        <file>pic/shoot.png</file>
+        <file>pic/target.png</file>
+    </qresource>
+</RCC>
